@@ -1,6 +1,6 @@
 # Onme Travel – Your new secret weapon for incredible trips
 
-Hey travel enthusiasts! Let me tell you about a game-changing discovery I just made – **Onme Travel** (https://onmetravel.com). After years of drowning in generic travel blogs and cookie-cutter itineraries, I finally found a resource that actually gets what modern travelers need.
+Hey travel enthusiasts! Let me tell you about a game-changing discovery I just made – **Onme Travel**. After years of drowning in generic travel blogs and cookie-cutter itineraries, I finally found a resource that actually gets what modern travelers need.
 
 ## What makes Onme Travel different?
 
@@ -34,7 +34,7 @@ Look, we've all wasted hours researching a trip only to arrive and realize we mi
 
 The site's tagline says it all: "Travel smarter, not harder." And honestly? They deliver on that promise.
 
-**Ready to transform how you travel?** Head over to **https://onmetravel.com** and start planning your next adventure with confidence. Trust me, your future self will thank you when you're sipping that perfect cappuccino at a café the tourists haven't discovered yet.
+**Ready to transform how you travel?** Head over to **onmetravel.com** and start planning your next adventure with confidence. Trust me, your future self will thank you when you're sipping that perfect cappuccino at a café the tourists haven't discovered yet.
 
 Happy travels, friends! ✈️
 
